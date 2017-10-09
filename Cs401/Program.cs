@@ -13,6 +13,7 @@ namespace Cs401
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello");
             Console.Write("69");
+            Console.WriteLine("");
         }
     }
 }
