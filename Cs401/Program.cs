@@ -14,6 +14,7 @@ namespace Cs401
             Console.WriteLine("Hello");
             Console.Write("69");
             Console.WriteLine("");
+            Console.WriteLine("ABC");
         }
     }
 }
