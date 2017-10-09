@@ -10,6 +10,7 @@ namespace Cs401
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
